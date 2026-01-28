@@ -1,4 +1,4 @@
-# 💊 Growth Supplements Monitor
+# 💊 Bot de Suplementos
 
 > **Bot de rastreamento de estoque e preços.** Um script de Web Scraping que monitora automaticamente a disponibilidade de suplementos (Creatina, Whey) e notifica via Telegram.
 
